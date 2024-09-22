@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.69ecee8a.css",
+    "main.js": "./static/js/main.a3821b74.js",
+    "static/js/453.ace21015.chunk.js": "./static/js/453.ace21015.chunk.js",
+    "static/media/project-08.png": "./static/media/project-08.5dcb875a147678ee02ca.png",
+    "static/media/project-05.png": "./static/media/project-05.d8b034eca0ed9bd6a1f1.png",
+    "static/media/project-07.png": "./static/media/project-07.9c92e265a0bee83a8fb3.png",
+    "static/media/usthing.svg": "./static/media/usthing.1fb545ddb074be463a1451439d136391.svg",
+    "static/media/project-04.png": "./static/media/project-04.40bf0c0a5aa0ed456af5.png",
+    "static/media/itri.png": "./static/media/itri.5af441a2c849b7151b1c.png",
+    "static/media/project-03.png": "./static/media/project-03.b7f0edec003abce8f06e.png",
+    "static/media/project-02.png": "./static/media/project-02.6214dde36dc6336bb366.png",
+    "static/media/project-06.png": "./static/media/project-06.e40ecf7e16cdbbd17985.png",
+    "static/media/Chalmers_logo.png": "./static/media/Chalmers_logo.999526243ecf0f37693d.png",
+    "static/media/project-09.png": "./static/media/project-09.31c71889762ae4631a82.png",
+    "static/media/project-10.png": "./static/media/project-10.4d613a40d27bec8bbd0a.png",
+    "static/media/home-main-2.svg": "./static/media/home-main-2.cd0939e2c9df9aa343bda57b2935e083.svg",
+    "static/media/CV_202409.pdf": "./static/media/CV_202409.e86240b4e37a09c35765.pdf",
+    "static/media/project-11.png": "./static/media/project-11.206420892d25e711b799.png",
+    "static/media/UST_logo.png": "./static/media/UST_logo.a5f142171cfcfd95e20e.png",
+    "static/media/avataaars.svg": "./static/media/avataaars.29ea5f76df5d0affb69dc7fa58b33dac.svg",
+    "static/media/pre.svg": "./static/media/pre.61ac2998c52ffe8348f2.svg",
+    "index.html": "./index.html",
+    "main.69ecee8a.css.map": "./static/css/main.69ecee8a.css.map",
+    "main.a3821b74.js.map": "./static/js/main.a3821b74.js.map",
+    "453.ace21015.chunk.js.map": "./static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ecee8a.css",
+    "static/js/main.a3821b74.js"
+  ]
+}
