@@ -1,0 +1,22 @@
+.project-modal {
+    color: #101011 !important; /* White text */
+  }
+  
+  .project-modal .modal-header {
+    border-bottom: 1px solid rgba(16, 16, 17, 0.2) !important; /* Subtle white border */
+  }
+  
+  .project-modal .modal-footer {
+    border-top: 1px solid rgba(16, 16, 17, 0.2) !important; /* Subtle white border */
+  }
+  
+  .project-modal .modal-title {
+    font-weight: 500 !important; /* Match existing heading styles */
+    font-size: 1.8em !important; /* Adjust font size */
+    color: #101011 !important; /* White title */
+  }
+  
+  .project-modal .modal-body {
+    text-align: justify; /* Justified text */
+    color: #101011 !important; /* Consistent text color */
+  }

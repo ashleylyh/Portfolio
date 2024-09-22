@@ -1,0 +1,92 @@
+.date {
+  color: #fff;
+}
+
+.description {
+  text-align: left;
+}
+
+.timeline-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px; /* Adjust spacing as needed */
+}
+
+.vertical-timeline-element-title {
+  font-size: 1.7em !important;
+  font-weight: bold;
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.vertical-timeline-element-dateee {
+  margin: 0;
+  padding: 5px 0;
+  font-size: 1.1em !important;
+  margin-right: auto; /* Push date to the left */
+}
+
+.vertical-timeline-element-company {
+  /* font-weight: bold; Make it bold */
+  /* color: #333; Change color as needed */
+  font-size: 1.4em !important;
+  margin-bottom: 5px; /* Space below the company name */
+}
+
+.vertical-timeline-element-subtitle {
+  font-size: 1.1em !important;
+  margin-left: auto; /* Push location to the right */
+}
+
+.vertical-timeline-element-title {
+  margin: 0;
+  padding-bottom: 5px;
+}
+
+.keywords {
+  margin-top: 10px; /* Adjust spacing as needed */
+  margin-bottom: -20px; /* Adjust spacing as needed */
+}
+
+.keyword {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: 20px; /* For rounded ellipses */
+  background-color: #e6bbad; /* Default background color */
+  color: #fff; /* Text color */
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transition */
+  cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.keyword:hover {
+  background-color: #d49a8a; /* Change to a darker color on hover */
+  transform: scale(1.05); /* Slightly enlarge the button */
+}
+
+.vertical-timeline-element-company {
+  display: flex;
+  align-items: flex-start; /* Align items to the start */
+}
+
+.company-logo {
+  width: 38px; /* Desired width */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 8px; /* Space between logo and company name */
+}
+
+.vertical-timeline-element-company h4 {
+  margin: 0; /* Remove default margin for h4 */
+  font-weight: bold; /* Make company name bold */
+  font-size: 0.9em !important;
+}
+
+.company-description {
+  font-size: 0.85em; /* Adjust size as needed */
+  color: #555; /* Set color for description */
+  margin-top: 4px; /* Space above the description */
+  margin-bottom: 4px; /* No space below */
+}
